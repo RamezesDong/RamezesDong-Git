@@ -1,0 +1,15 @@
+sidebar:
+  menu:
+    post: '[博客](/)'
+    about: '[关于](/about/)'
+
+comments:
+  service: beaudar
+  beaudar:
+    repo: RamezesDong/blog-comments
+
+footer:
+  social:
+    github:
+      icon: '<img src="https://fastly.jsdelivr.net/gh/cdn-x/placeholder@1.0.3/social/08a41b181ce68.svg"/>'
+      url: https://github.com/RamezesDong

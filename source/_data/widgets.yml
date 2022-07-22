@@ -1,0 +1,7 @@
+welcome:
+  layout: markdown
+  title: 'Hello!'
+  content: |
+    这是Ramezes的娱乐小站，记录学习和生活，也写一些自己的看法
+    多刷课，多刷题，打好cs基础
+    **须知少年凌云志，曾许人间第一流**
