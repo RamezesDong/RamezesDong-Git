@@ -2,6 +2,7 @@ sidebar:
   menu:
     post: '[博客](/)'
     about: '[关于](/about/)'
+    logseq: '[知识图谱](/logseq/)'
 
 comments:
   service: beaudar
@@ -13,3 +14,6 @@ footer:
     github:
       icon: '<img src="https://fastly.jsdelivr.net/gh/cdn-x/placeholder@1.0.3/social/08a41b181ce68.svg"/>'
       url: https://github.com/RamezesDong
+    zhihu:
+       icon: '<img src="https://fastly.jsdelivr.net/gh/cdn-x/placeholder@1.0.3/social/942ebbf1a4b91.svg"/>'
+       url: https://www.zhihu.com/people/tian-qi-xia-53
